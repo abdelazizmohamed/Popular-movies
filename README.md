@@ -25,16 +25,6 @@ Popular movies app is the graduation project in Udacity's Android course.
 [Picasso]: <https://github.com/square/picasso>
 [GSON]: <https://github.com/google/gson>
 
-# Screenshots
-![](/screenshots/movies_favorites_phone_portrait_framed.png)
-![](/screenshots/movies_favorites_phone_landscape_framed.png)
-![](/screenshots/movies_details_phone_portrait_framed.png)
-![](/screenshots/movies_details_2_phone_portrait_framed.png)
-![](/screenshots/movies_details_3_phone_portrait_framed.png)
-![](/screenshots/movies_person_details_peek_phone_portrait_framed.png)
-![](/screenshots/movies_person_details_full_phone_portrait_framed.png)
-![](/screenshots/movies_popular_tablet_landscape_framed.png)
-
 # Instructions to build
 To be able to properly build and test the project, a new API key must be requested from TMDb.
 API key should then be updated in ../res/values/strings.xml
